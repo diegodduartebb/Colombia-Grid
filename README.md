@@ -1,2 +1,9 @@
 # Colombia Grid
-R code to graph Colombia as a grid
+This is R code to graph Colombia as a grid of municipalities.
+
+Examples:
+
+
+
+How to use:
+1. 
