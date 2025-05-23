@@ -11,4 +11,8 @@ Examples:
 </p>
 
 How to use:
-1. 
+1. Clone this repository and run the whole Rscript.
+2. Merge your database with municipioscol.csv and municipioscol_labels.csv.
+3. Copy and edit the code from my Rscript to graph whatever variable you want.
+
+For futher instructions read the guide inside the Rscript.
